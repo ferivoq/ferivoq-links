@@ -1,0 +1,1 @@
+<?php header("Location: https://www.win-rar.com/predownload.html"); ?>

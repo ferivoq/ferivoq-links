@@ -1,0 +1,1 @@
+<?php header("Location: https://transmissionbt.com/download"); ?>
