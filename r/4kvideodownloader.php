@@ -1,1 +1,0 @@
-<?php header("Location: https://www.4kdownload.com/downloads/34"); ?>

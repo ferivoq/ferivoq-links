@@ -1,1 +1,0 @@
-<?php header("Location: https://code.visualstudio.com/download"); ?>

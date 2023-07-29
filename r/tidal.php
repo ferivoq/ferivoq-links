@@ -1,1 +1,0 @@
-<?php header("Location: https://offer.tidal.com/download"); ?>

@@ -1,1 +1,0 @@
-<?php header("Location: www.spotify.com/download/other/"); ?>
